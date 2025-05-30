@@ -20,3 +20,15 @@ API RESTful desarrollada en C# con .NET 6 y SQL Server para gestionar un catálo
 - Visual Studio / VS Code u otro IDE compatible
 
 ---
+
+## ENDPOINTS Principales
+
+
+| Método | Ruta                         | Descripción               |
+| ------ | ---------------------------- | ------------------------- |
+| GET    | `/api/maquina`               | Listar todas las máquinas |
+| GET    | `/api/maquina/{id}`          | Obtener máquina por ID    |
+| GET    | `/api/maquina/marca/{marca}` | Buscar máquinas por marca |
+| POST   | `/api/maquina`               | Crear nueva máquina       |
+| PUT    | `/api/maquina/{id}`          | Actualizar máquina        |
+| DELETE | `/api/maquina/{id}`          | Eliminar máquina          |
