@@ -20,11 +20,3 @@ API RESTful desarrollada en C# con .NET 6 y SQL Server para gestionar un catálo
 - Visual Studio / VS Code u otro IDE compatible
 
 ---
-
-## Configuración
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
