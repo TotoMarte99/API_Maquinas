@@ -1,6 +1,6 @@
 # API Maquinas
 
-API RESTful desarrollada en C# con .NET 6 y SQL Server para gestionar un catálogo de máquinas. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar), búsqueda por filtros y validación de datos. Ideal para integrarse con aplicaciones web o móviles que requieran manejo de inventarios o catálogos de productos industriales.
+API RESTful desarrollada en C# con .NET 8 y SQL Server para gestionar un catálogo de máquinas. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar), búsqueda por filtros y validación de datos. Ideal para integrarse con aplicaciones web o móviles que requieran manejo de inventarios o catálogos de productos industriales.
 
 ---
 
@@ -15,7 +15,7 @@ API RESTful desarrollada en C# con .NET 6 y SQL Server para gestionar un catálo
 
 ## Requisitos
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - SQL Server (local o remoto)
 - Visual Studio / VS Code u otro IDE compatible
 
